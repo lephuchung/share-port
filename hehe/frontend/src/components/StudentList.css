@@ -1,0 +1,22 @@
+.student-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .student-list th, 
+  .student-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .student-list th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .student-list td button {
+    margin-right: 5px;
+  }
+  
